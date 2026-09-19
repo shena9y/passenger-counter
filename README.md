@@ -6,6 +6,8 @@ A simple and fun counter app built with vanilla HTML, CSS, and JavaScript. It co
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+🔗 **Live Demo:** [https://shena9y.github.io/passenger-counter/](https://shena9y.github.io/passenger-counter/)
+
 ## ✨ Features
 
 - ➕ **Increment button** — increases the people counter by one
@@ -30,6 +32,8 @@ passenger-counter/
 ```
 
 ## 🚀 Getting Started
+
+**Try it live:** [https://shena9y.github.io/passenger-counter/](https://shena9y.github.io/passenger-counter/) — no installation needed!
 
 No build tools needed — just open the file in your browser:
 
